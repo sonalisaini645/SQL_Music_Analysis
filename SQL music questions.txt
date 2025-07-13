@@ -1,0 +1,21 @@
+Question Set 1 
+Who is the highest-ranking employee based on their job title?
+
+Which countries have the highest number of invoices?
+
+What are the top 3 highest invoice amounts?
+
+Which city has the highest total invoice amount? (We want to find the best city for a promotional music festival.)
+
+Which customer has spent the most money?
+
+🔸 Question Set 2 
+List the email, first name, last name, and favorite genre of all customers who listen to Rock music. (Sort the list by email in A–Z order.)
+
+Which artists have created the most Rock tracks? (Show the top 10 artists with the highest number of Rock tracks.)
+
+Which songs are longer than the average song length? (List their names and durations in milliseconds, starting with the longest.)
+
+🔺 Question Set 3 – 
+How much has each customer spent on each artist? (Show customer name, artist name, and total money spent.) Question Set 1 – Easy
+Who is the highest-ranking employee based on their job title?
